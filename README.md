@@ -3,6 +3,7 @@
 ## Assumptions
 - Headless is acceptable (There is no UI to this, just the json output view of your browser)
 - No Logging is need
+- JSON Array for output is acceptable
 
 ## How to run
 - you can either use the CLI or run it in Visual Studio
